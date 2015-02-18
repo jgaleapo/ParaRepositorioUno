@@ -7,5 +7,5 @@ public class Clase {
 	int cuatro;
 	int seis;
 	int quinto;
-
+	int ocho;
 }
