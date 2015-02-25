@@ -10,4 +10,5 @@ public class Clase {
 	int ocho;
 	
 	int nueveNueva;
+	int diezNueva;
 }
