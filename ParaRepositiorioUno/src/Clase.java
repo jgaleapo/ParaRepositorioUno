@@ -11,4 +11,6 @@ public class Clase {
 	
 	int nueveNueva;
 	int diezNueva;
+	int onceNueva;
+	int doceNueva;
 }
