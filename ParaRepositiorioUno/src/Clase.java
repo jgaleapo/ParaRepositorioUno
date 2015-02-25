@@ -8,4 +8,6 @@ public class Clase {
 	int seis;
 	int quinto;
 	int ocho;
+	
+	int nueveNueva;
 }
